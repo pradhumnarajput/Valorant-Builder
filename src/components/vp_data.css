@@ -1,0 +1,33 @@
+.container{
+    padding-top: 5%;
+    padding-bottom: 0%;
+    /* margin-left: 5%; */
+    position: relative;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+}
+
+.text{
+    margin-left: 15%;
+}
+
+.heading{
+    font-family: 'Anton', sans-serif;
+    font-size: 2.5vw;
+    color: #FD4556;
+    /* white-space: pre; */
+}
+
+.data{
+    width: fit-content;
+    height: fit-content;
+    font-family: 'Anton', sans-serif;
+    font-size: 2vw;
+    color: white;
+    white-space: pre;
+}
+
+
+
+

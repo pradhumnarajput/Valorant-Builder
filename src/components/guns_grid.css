@@ -1,0 +1,188 @@
+
+
+.guns_grid {
+    /* border: 2px solid red; */
+    margin-left: 2.5vw;
+    margin-top: 3vw;
+    width: 60%;
+    color: white;
+}
+
+.grid_box {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 250px;
+    height: 125px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+    opacity: 0.1;
+    z-index: -1;
+}
+
+
+
+
+.submit {
+    width: 540px;
+    height: 125px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    /* position: relative; */
+}
+
+.btn {
+    color: #ffffff;
+    font-family: 'Anton', sans-serif;
+    font-size: 3.5vw;
+    background: #FD4556;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    border: #FD4556;
+    margin: auto;
+    
+    width: 540px;
+    height: 125px;
+}
+
+.btn:hover {
+    background: #BD3944;
+    text-decoration: none;
+}
+
+img{
+    position: absolute;
+    opacity: 1;
+    z-index: 1;
+}
+
+/* gun models */
+
+#classic{
+    height: 80px;
+    width: 120px;
+    margin-left: 80px;
+    margin-top: 42px;
+}
+
+#stinger{
+    height: 80px;
+    width: 180px;
+    margin-left: 53px;
+    margin-top: 42px;
+}
+
+#bulldog{
+    height: 80px;
+    width: 210px;
+    margin-left: 40px;
+    margin-top: 42px;
+}
+
+#marshal{
+    height: 45px;
+    width: 210px;
+    margin-left: 40px;
+    margin-top: 55px;
+}
+
+#shorty{
+    height: 70px;
+    width: 180px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+#spectre{
+    height: 75px;
+    width: 175px;
+    margin-left: 55px;
+    margin-top: 45px;
+}
+
+#guardian{
+    height: 55px;
+    width: 210px;
+    margin-left: 40px;
+    margin-top: 55px;
+}
+
+#operator{
+    height: 45px;
+    width: 210px;
+    margin-left: 40px;
+    margin-top: 55px;
+}
+
+#frenzy{
+    height: 80px;
+    width: 120px;
+    margin-left: 80px;
+    margin-top: 42px;
+}
+
+#bucky{
+    height: 45px;
+    width: 210px;
+    margin-left: 40px;
+    margin-top: 60px;
+}
+
+#phantom{
+    height: 50px;
+    width: 200px;
+    margin-left: 44px;
+    margin-top: 60px;
+}
+
+#ares{
+    height: 50px;
+    width: 220px;
+    margin-left: 34px;
+    margin-top: 57px;
+}
+
+#ghost{
+    height: 70px;
+    width: 180px;
+    margin-left: 55px;
+    margin-top: 50px;
+}
+
+#judge{
+    height: 70px;
+    width: 210px;
+    margin-left: 40px;
+    margin-top: 46px;
+}
+
+#vandal{
+    height: 60px;
+    width: 200px;
+    margin-left: 42px;
+    margin-top: 56px;
+}
+
+#odin{
+    height: 65px;
+    width: 235px;
+    margin-left: 25px;
+    margin-top: 55px;
+}
+
+#sheriff{
+    height: 70px;
+    width: 150px;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+
+#knife{
+    height: 70px;
+    width: 160px;
+    margin-left: 70px;
+    margin-top: 50px;
+}

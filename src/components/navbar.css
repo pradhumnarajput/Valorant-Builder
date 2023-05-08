@@ -1,0 +1,25 @@
+.navbar{
+    margin: auto;
+    position: relative;
+    padding: 0px;
+    width: 18%;
+    border-top: 3.3vw solid #FD4556;
+    border-left: 2.1vw solid transparent;
+    border-right: 2.1vw solid transparent;
+    /* border-bottom: 60px solid transparent; */
+}
+
+.nav-text{
+    color: white;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    width:fit-content;
+    /* top: -1.5em;
+    left: 1.2em; */
+    left: 22%;
+    transform: translate(0%, -120%);
+    font-family: 'Anton', sans-serif;
+    font-size: 1.6vw;
+    
+}
